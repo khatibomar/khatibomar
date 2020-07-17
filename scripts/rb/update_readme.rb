@@ -22,10 +22,10 @@ end
 # Generate your own layout and paste posts in it
 # Don't forget to change text and name =)
 markdown = <<~EOF
-# Hello friends!
+# Welcome to my profile!
 I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
 My last publications:
-#{posts.join}
+#{posts.join+'\n'}
 
 Script is provided by https://github.com/pashagray
 EOF
