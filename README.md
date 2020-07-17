@@ -1,5 +1,5 @@
 # Hello friends!
-I'm a fullstack ruby and js developer. Follow me on [Dev.to](https://dev.to/pashagray)
+I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
 My last publications:
 __[#035 Kubernetes - Replicasets Lab](https://dev.to/elkhatibomar/035-kubernetes-replicasets-lab-31cc)__
 Introduction   this is part 35 from the journey it's a long journey(360 day) so go please ch...
