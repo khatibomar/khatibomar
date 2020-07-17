@@ -15,6 +15,7 @@ response = Faraday.get(
 posts = JSON.parse(response.body).map do |article|
   <<~EOF
   [#{article['title']}](#{article['url']})\n
+  ![cover](#{article['cover_image']})
   EOF
 end
 
@@ -23,10 +24,10 @@ end
 markdown = <<~EOF
 # Welcome to my profile!
 I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
-My last publications:
-#{posts.join}
+My last publication:
+#{posts[0].join}
 
-Script is provided by https://github.com/pashagray
+Script is provided by https://github.com/pashagray | edited by me to fit my needs
 EOF
 
 # Write you markdown to README.MD
