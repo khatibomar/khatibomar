@@ -1,33 +1,48 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# Name of your workflow
+name: README Update
+# Triggers to run workflow
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  # workflow_dispatch allows to run your workflow manually
+  workflow_dispatch:
+  # Run workflow based on specific schedule
+  schedule:
+  # This workflow will run every day at 00:00 UTC.
+  # You can use https://crontab.guru/ if cron syntax is
+  # looking weird for you
+  - cron: "0 0 * * *"
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
+  # This workflow contains a single job called "perform"
+  perform:
     # The type of runner that the job will run on
+    # ubuntu-latest is default
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    # This line to work properly with repo
     - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: echo Hello, world!
-
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
+    # This one to activate ruby magic
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.7'
+    # First we need to install Faraday gem. You can use ruby built-in NET::HTTP
+    # class, but I want to show you how to work with gems in github-actions
+    - name: Install gems
+      run: gem install faraday
+    # And now we run our script
+    - name: Run script
+      # Here we are setting our secret API Key
+      # Details: https://docs.github.com/en/actions/configuring-and-managing-workflows/using-variables-and-secrets-in-a-workflow
+      env:
+        DEV_TO_API_KEY: ${{ secrets.DEV_TO_API_KEY }}
+      run: ruby ./scripts/rb/update_readme.rb
+    # Our script updated README.md, but we need to commit all changes
+    - name: Commit and push if changed
       run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+        git add .
+        git diff
+        git config --global user.email "github-action-bot@example.com"
+        git config --global user.name "GitHub Action Bot"
+        git commit -m "Updated README" -a || echo "No changes to commit"
+        git push
