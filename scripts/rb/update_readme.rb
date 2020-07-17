@@ -25,7 +25,7 @@ markdown = <<~EOF
 # Welcome to my profile!
 I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
 My last publication:
-#{posts[0].join}
+#{posts[0]}
 
 Script is provided by https://github.com/pashagray | edited by me to fit my needs
 EOF
