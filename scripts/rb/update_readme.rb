@@ -14,8 +14,7 @@ response = Faraday.get(
 # wrap it to markdown syntax
 posts = JSON.parse(response.body).map do |article|
   <<~EOF
-  __[#{article['title']}](#{article['url']})__
-  #{article['description']}
+  __[#{article['title']}](#{article['url']})
   EOF
 end
 
@@ -25,7 +24,7 @@ markdown = <<~EOF
 # Welcome to my profile!
 I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
 My last publications:
-#{posts.join+'\n'}
+#{posts.join}
 
 Script is provided by https://github.com/pashagray
 EOF
