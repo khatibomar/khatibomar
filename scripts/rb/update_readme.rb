@@ -23,7 +23,7 @@ end
 # Don't forget to change text and name =)
 markdown = <<~EOF
 # Hello friends!
-I'm a fullstack ruby and js developer. Follow me on [Dev.to](https://dev.to/pashagray)
+I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
 My last publications:
 #{posts.join}
 
