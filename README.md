@@ -1,4 +1,4 @@
-# Hello friends!
+# Welcome to my profile!
 I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
 My last publications:
 __[#035 Kubernetes - Replicasets Lab](https://dev.to/elkhatibomar/035-kubernetes-replicasets-lab-31cc)__
@@ -62,6 +62,6 @@ __[#007 Docker Images and Containers](https://dev.to/elkhatibomar/007-docker-ima
 Introduction   this is part 7 from the journey it's a long journey(360 day) so go   please c...
 __[#006 Install Docker](https://dev.to/elkhatibomar/006-install-docker-4oaj)__
 Introduction   this is part 6 from the journey it's a long journey(360 day) so go  please ch...
-
+\n
 
 Script is provided by https://github.com/pashagray
