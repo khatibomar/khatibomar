@@ -15,7 +15,7 @@ response = Faraday.get(
 posts = JSON.parse(response.body).map do |article|
   <<~EOF
   [#{article['title']}](#{article['url']})\n
-  ![cover](#{article['cover_image']})
+  [![cover](#{article['cover_image']})](#{article['url']})\n
   EOF
 end
 
