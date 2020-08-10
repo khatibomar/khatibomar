@@ -15,7 +15,6 @@ response = Faraday.get(
 posts = JSON.parse(response.body).map do |article|
   <<~EOF
   [#{article['title']}](#{article['url']})\n
-  [![cover](#{article['cover_image']})](#{article['url']})\n
   EOF
 end
 
@@ -110,12 +109,6 @@ markdown = <<~EOF
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OmarElKhatibCS&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
