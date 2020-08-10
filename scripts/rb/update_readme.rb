@@ -104,10 +104,6 @@ markdown = <<~EOF
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OmarElKhatibCS&show_icons=true&count_private=true" align="center" /></div>  
-
 <br/>  
 
 <br/>  
@@ -118,6 +114,7 @@ markdown = <<~EOF
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 My last publication:
+\n
 #{posts[0]}
 EOF
 
