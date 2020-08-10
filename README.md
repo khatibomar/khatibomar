@@ -1,9 +1,9 @@
 # Welcome to my profile!
 I'm a fullstack developer. Follow me on [Dev.to](https://dev.to/elkhatibomar)
 My last publication:
-[#046 Kubernetes - Services 6 ](https://dev.to/elkhatibomar/046-kubernetes-services-6-aam)
+[#047 Kubernetes - voting app (example) ](https://dev.to/elkhatibomar/047-kubernetes-voting-app-example-4j1)
 
-[![cover](https://res.cloudinary.com/practicaldev/image/fetch/s--C0MxLrqj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/p4mz2owm80bg5npwwb8s.png)](https://dev.to/elkhatibomar/046-kubernetes-services-6-aam)
+[![cover](https://res.cloudinary.com/practicaldev/image/fetch/s--_8POIs78--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5q60ljqlwj5g49ucg3by.png)](https://dev.to/elkhatibomar/047-kubernetes-voting-app-example-4j1)
 
 
 
