@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.tenor.com/images/7d13e039fd08c122edd77f1ebfb746f6/tenor.gif?itemid=17699347" align="center" height="200" width="200" />
+<img src="https://media1.tenor.com/images/7d13e039fd08c122edd77f1ebfb746f6/tenor.gif?itemid=17699347" align="center" />
 </div>  
 
 ### <div align="center">I'm Omar ElKhatib, I write my first  🖥️ program when I was 12 years old</div>  
