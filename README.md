@@ -1,4 +1,4 @@
-# Welcome to my profile!
+  
 <div align="center">
 <img src="https://media1.tenor.com/images/9ea72ef078139ced289852e8a4ea0c5c/tenor.gif?itemid=7537923" align="center" height="200" width="200" />
 </div>  
@@ -81,10 +81,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OmarElKhatibCS&show_icons=true&count_private=true" align="center" /></div>  
-
 <br/>  
 
 <br/>  
@@ -95,6 +91,8 @@
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 My last publication:
+
+
 [#047 Kubernetes - voting app (example) ](https://dev.to/elkhatibomar/047-kubernetes-voting-app-example-4j1)
 
 
