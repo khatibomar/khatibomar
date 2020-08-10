@@ -21,20 +21,15 @@ end
 # Generate your own layout and paste posts in it
 # Don't forget to change text and name =)
 markdown = <<~EOF
-  
 <div align="center">
 <img src="https://media1.tenor.com/images/9ea72ef078139ced289852e8a4ea0c5c/tenor.gif?itemid=7537923" align="center" height="200" width="200" />
 </div>  
-  
 
 ### <div align="center">I'm Omar ElKhatib, I write my first  🖥️ program when I was 12 years old</div>  
   
-
 - 🌱 I’m currently learning DevOps and clean coding with refactoring.  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -62,8 +57,6 @@ markdown = <<~EOF
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>  
 
-
-
 ### Others  
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" height="50" />  
@@ -84,7 +77,6 @@ markdown = <<~EOF
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/OmarElKhatibCS" target="_blank">
@@ -100,19 +92,11 @@ markdown = <<~EOF
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
 <br/>  
-
 <br/>  
-
-
 <br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 My last publication:
 \n
 #{posts[0]}
