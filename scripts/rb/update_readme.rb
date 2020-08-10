@@ -21,7 +21,7 @@ end
 # Generate your own layout and paste posts in it
 # Don't forget to change text and name =)
 markdown = <<~EOF
-# Welcome to my profile!
+  
 <div align="center">
 <img src="https://media1.tenor.com/images/9ea72ef078139ced289852e8a4ea0c5c/tenor.gif?itemid=7537923" align="center" height="200" width="200" />
 </div>  
