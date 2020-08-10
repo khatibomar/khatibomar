@@ -27,7 +27,7 @@ markdown = <<~EOF
 
 ### <div align="center">I'm Omar ElKhatib, I write my first  🖥️ program when I was 12 years old</div>  
   
-- 🌱 I’m currently learning DevOps and clean coding with refactoring.  
+- 🌱 I’m currently learning DevOps , clean coding , refactoring and advanced topics.  
   
 <br/>  
 
