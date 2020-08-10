@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://media1.tenor.com/images/9ea72ef078139ced289852e8a4ea0c5c/tenor.gif?itemid=7537923" align="center" height="200" width="200" />
+<img src="https://media1.tenor.com/images/7d13e039fd08c122edd77f1ebfb746f6/tenor.gif?itemid=17699347" align="center" height="200" width="200" />
 </div>  
 
 ### <div align="center">I'm Omar ElKhatib, I write my first  🖥️ program when I was 12 years old</div>  
   
-- 🌱 I’m currently learning DevOps and clean coding with refactoring.  
+- 🌱 I’m currently learning DevOps , clean coding , refactoring and advanced topics.  
   
 <br/>  
 
