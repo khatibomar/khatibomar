@@ -77,6 +77,6 @@
 My last publication:
 
 
-[#047 Kubernetes - voting app (example) ](https://dev.to/elkhatibomar/047-kubernetes-voting-app-example-4j1)
+[#048 Kubernetes - namespaces 1](https://dev.to/elkhatibomar/048-kubernetes-namespaces-1-3fa2)
 
 
