@@ -77,6 +77,6 @@
 My last publication:
 
 
-[#048 Kubernetes - namespaces 1](https://dev.to/elkhatibomar/048-kubernetes-namespaces-1-3fa2)
+[#049 Kubernetes - namespaces 2](https://dev.to/elkhatibomar/049-kubernetes-namespaces-2-231m)
 
 
