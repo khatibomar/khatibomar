@@ -78,6 +78,6 @@
 My last publication:
 
 
-[#049 Kubernetes - namespaces 2](https://dev.to/elkhatibomar/049-kubernetes-namespaces-2-231m)
+[#050 Kubernetes - Taints and Tolerations 1](https://dev.to/elkhatibomar/050-kubernetes-taints-and-tolerations-1-54nd)
 
 
