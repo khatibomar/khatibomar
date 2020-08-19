@@ -78,6 +78,6 @@
 My last publication:
 
 
-[#050 Kubernetes - Taints and Tolerations 1](https://dev.to/elkhatibomar/050-kubernetes-taints-and-tolerations-1-54nd)
+[#051 Kubernetes - Taints and Tolerations 2 (Practice) ](https://dev.to/elkhatibomar/051-kubernetes-taints-and-tolerations-2-practice-6e6)
 
 
