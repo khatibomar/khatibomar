@@ -78,6 +78,6 @@
 My last publication:
 
 
-[#051 Kubernetes - Taints and Tolerations 2 (Practice) ](https://dev.to/elkhatibomar/051-kubernetes-taints-and-tolerations-2-practice-6e6)
+[#001 Ultimate GO Notes Part 1](https://dev.to/elkhatibomar/go-notes-ardanlabs-4mha)
 
 
