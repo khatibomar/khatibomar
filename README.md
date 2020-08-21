@@ -78,6 +78,6 @@
 My last publication:
 
 
-[#001 Ultimate GO Notes Part 1](https://dev.to/elkhatibomar/go-notes-ardanlabs-4mha)
+[#052 Kubernetes - Node Selector](https://dev.to/elkhatibomar/051-kubernetes-node-selector-25d4)
 
 
