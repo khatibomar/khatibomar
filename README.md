@@ -85,4 +85,4 @@ My last publication:
 Quote of today :
     
 
-  - 
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.  - Gottfried Wilhelm Leibniz
