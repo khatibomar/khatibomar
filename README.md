@@ -81,3 +81,8 @@ My last publication:
 [#053 Kubernetes - Environment Variables](https://dev.to/elkhatibomar/053-kubernetes-environment-variables-j23)
 
 
+---
+Quote of today :
+    
+
+  - 
