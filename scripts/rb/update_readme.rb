@@ -10,6 +10,11 @@ response = Faraday.get(
   { "api-key": ENV["DEV_TO_API_KEY"] }
 )
 
+quote_response = Faraday.get(
+  "https://programming-quotes-api.herokuapp.com/quotes/random/lang/en/"
+)
+quote = quote_response['en']+" -"+quote_response['author']
+
 # Retrieve `title`, `url`, and `description` and
 # wrap it to markdown syntax
 posts = JSON.parse(response.body).map do |article|
@@ -101,6 +106,10 @@ markdown = <<~EOF
 My last publication:
 \n
 #{posts[0]}
+---
+Quote of today :
+    \n
+#{quote}
 EOF
 
 # Write you markdown to README.MD
