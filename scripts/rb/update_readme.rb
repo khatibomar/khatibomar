@@ -11,7 +11,8 @@ response = Faraday.get(
 )
 
 quote_response = Faraday.get(
-  "https://programming-quotes-api.herokuapp.com/quotes/random/lang/en/"
+  "https://programming-quotes-api.herokuapp.com/quotes/random/lang/en/",
+  {}
 )
 quote = quote_response['en']+" -"+quote_response['author']
 
