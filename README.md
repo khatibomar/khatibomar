@@ -78,6 +78,6 @@
 My last publication:
 
 
-[#052 Kubernetes - Node Selector](https://dev.to/elkhatibomar/051-kubernetes-node-selector-25d4)
+[#053 Kubernetes - Environment Variables](https://dev.to/elkhatibomar/053-kubernetes-environment-variables-j23)
 
 
