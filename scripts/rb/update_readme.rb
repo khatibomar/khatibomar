@@ -10,10 +10,7 @@ response = Faraday.get(
   { "api-key": ENV["DEV_TO_API_KEY"] }
 )
 
-quote_response = Faraday.get(
-  "https://programming-quotes-api.herokuapp.com/quotes/random/lang/en/",
-  {}
-)
+quote_response = Faraday.get("https://programming-quotes-api.herokuapp.com/quotes/random/lang/en/")
 
 # Retrieve `title`, `url`, and `description` and
 # wrap it to markdown syntax
