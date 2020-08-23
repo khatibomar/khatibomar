@@ -14,7 +14,6 @@ quote_response = Faraday.get(
   "https://programming-quotes-api.herokuapp.com/quotes/random/lang/en/",
   {}
 )
-quote = quote_response['en']+" -"+quote_response['author']
 
 # Retrieve `title`, `url`, and `description` and
 # wrap it to markdown syntax
@@ -110,7 +109,7 @@ My last publication:
 ---
 Quote of today :
     \n
-#{quote}
+#{quote_response['en']+" -"+quote_response['author']}
 EOF
 
 # Write you markdown to README.MD
