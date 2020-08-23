@@ -106,7 +106,7 @@ My last publication:
 ---
 Quote of today :
     \n
-#{quote_response['en']+" -"+quote_response['author']}
+#{quote_response['en']}  - #{quote_response['author']}
 EOF
 
 # Write you markdown to README.MD
