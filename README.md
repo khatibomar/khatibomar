@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#053 Kubernetes - Environment Variables](https://dev.to/elkhatibomar/053-kubernetes-environment-variables-j23)
+[#001 - Clean Code - Clean Code](https://dev.to/elkhatibomar/001-clean-code-clean-code-47jo)
 
 
 ---
 Quote of today :
     
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.  - Gottfried Wilhelm Leibniz
+You can’t trust code that you did not totally create yourself.  - Ken Thompson
