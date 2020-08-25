@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#001 - Clean Code - Clean Code](https://dev.to/elkhatibomar/001-clean-code-clean-code-47jo)
+[#002 DS&A - Pointer in C part 1](https://dev.to/elkhatibomar/002-ds-a-pointer-in-c-part-1-fa4)
 
 
 ---
 Quote of today :
     
 
-You can’t trust code that you did not totally create yourself.  - Ken Thompson
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.  - Robert L. Glass
