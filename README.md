@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#002 DS&A - Pointer in C part 1](https://dev.to/elkhatibomar/002-ds-a-pointer-in-c-part-1-fa4)
+[#054 Kubernetes - Environment Variables ConfigMaps](https://dev.to/elkhatibomar/054-kubernetes-environment-variables-configmaps-4na6)
 
 
 ---
 Quote of today :
     
 
-The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.  - Robert L. Glass
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.  - Charles Simonyi
