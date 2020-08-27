@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#054 Kubernetes - Environment Variables ConfigMaps](https://dev.to/elkhatibomar/054-kubernetes-environment-variables-configmaps-4na6)
+[#003 DS&A - Pointer in C part 2](https://dev.to/elkhatibomar/003-ds-a-pointer-in-c-part-2-1ig4)
 
 
 ---
 Quote of today :
     
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.  - Charles Simonyi
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.  - John Warnock
