@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#003 DS&A - Pointer in C part 2](https://dev.to/elkhatibomar/003-ds-a-pointer-in-c-part-2-1ig4)
+[#055 Kubernetes - Secretes](https://dev.to/elkhatibomar/055-kubernetes-secretes-5e3g)
 
 
 ---
 Quote of today :
     
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.  - John Warnock
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.  - Richard Hamming
