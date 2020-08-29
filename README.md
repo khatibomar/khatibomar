@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#055 Kubernetes - Secretes](https://dev.to/elkhatibomar/055-kubernetes-secretes-5e3g)
+[#005 DS&A - Linked List](https://dev.to/elkhatibomar/005-ds-a-linked-list-3e43)
 
 
 ---
 Quote of today :
     
 
-I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.  - Richard Hamming
+Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.  - Douglas Crockford
