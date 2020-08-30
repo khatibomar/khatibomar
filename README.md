@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#005 DS&A - Linked List](https://dev.to/elkhatibomar/005-ds-a-linked-list-3e43)
+[#002 - Clean Code - Names](https://dev.to/elkhatibomar/002-clean-code-names-5akk)
 
 
 ---
 Quote of today :
     
 
-Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.  - Douglas Crockford
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.  - Edsger W. Dijkstra
