@@ -78,11 +78,11 @@
 My last publication:
 
 
-[#002 - Clean Code - Names](https://dev.to/elkhatibomar/002-clean-code-names-5akk)
+[Get Waifu on terminal](https://dev.to/elkhatibomar/get-waifu-on-terminal-lef)
 
 
 ---
 Quote of today :
     
 
-Within C++, there is a much smaller and cleaner language struggling to get out.  - Bjarne Stroustrup
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.  - Richard Hamming
