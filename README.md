@@ -78,13 +78,13 @@
 My last publication:
 
 
-[Get Waifu on terminal](https://dev.to/elkhatibomar/get-waifu-on-terminal-lef)
+[#007 DS&A - Trees](https://dev.to/elkhatibomar/007-ds-a-trees-490l)
 
 
 ---
 Quote of today :
     
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.  - Wayne Ratliff
+It's not so important what you work on, so long as you're not wasting your time.  - Paul Graham (programmer)
 ---
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/OmarElKhatibCS/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
