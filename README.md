@@ -2,7 +2,7 @@
 <img src="https://media1.tenor.com/images/7d13e039fd08c122edd77f1ebfb746f6/tenor.gif?itemid=17699347" align="center" />
 </div>  
 
-### <div align="center">I ✍️ my first  🖥️ program when I was 12 years old. It means I do it before Understand what 💰 is 😊</div>  
+### <div align="center">I ✍️ my first  🖥️ program when I was 12 years old.</div>  
   
 📗 All public repositories are my own , I don't copy others work . Also I don't push code from tutorials I watch or read unless I edit them to fit my needs.
   
@@ -106,7 +106,7 @@ Quote of today :
     
 
   
-It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.  - E. W. Dijkstra
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.  - E. W. Dijkstra
   
 ---
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/OmarElKhatibCS/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
