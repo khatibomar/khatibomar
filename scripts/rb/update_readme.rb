@@ -80,17 +80,6 @@ markdown = <<~EOF
 <img style="margin: 10px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/goland_icon.svg" alt="Goland" height="50" />  
 <img style="margin: 10px" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty" height="50" />  
 
-
-<td valign="top" width="33%">
-<div align="center">  
-  
-  ### Others  
-  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" />  
-</div></td>
-
 </div></td>
     </tr>
   </table>  
