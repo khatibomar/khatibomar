@@ -18,12 +18,8 @@
   ### Frontend  
   
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="50" />  
 </div></td>
 
 <td valign="top" width="33%">
@@ -32,8 +28,6 @@
 ### Backend  
   
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="50" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>  
 
  
@@ -45,7 +39,6 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />  
 </div></td>
     </tr>
@@ -57,9 +50,9 @@
   ### Tools
   
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/goland_icon.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://sw.kovidgoyal.net/kitty/_static/kitty.png" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" height="50" />  
+<img style="margin: 10px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/goland_icon.svg" alt="Goland" height="50" />  
+<img style="margin: 10px" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty" height="50" />  
 
 
 <td valign="top" width="33%">
@@ -105,7 +98,8 @@ My last publication:
 Quote of today :
     
 
-Testing leads to failure, and failure leads to understanding. - Burt Rutan
+  
+Perl – The only language that looks the same before and after RSA encryption.  - Keith Bostic
   
 ---
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/OmarElKhatibCS/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
