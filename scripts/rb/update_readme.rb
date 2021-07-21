@@ -67,8 +67,6 @@ markdown = <<~EOF
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />  
 </div></td>
-    </tr>
-<tr>
 
 <td valign="top" width="25%">
 <div align="center">  
