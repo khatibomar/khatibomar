@@ -38,7 +38,7 @@ markdown = <<~EOF
 <table><tr>
 
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 <div align="center">  
   
   ### Frontend  
@@ -48,7 +48,7 @@ markdown = <<~EOF
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="50" />  
 </div></td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 <div align="center"> 
   
 ### Backend  
@@ -57,7 +57,7 @@ markdown = <<~EOF
 </div>  
 
  
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 <div align="center">  
   
   ### DevOps 
@@ -70,7 +70,7 @@ markdown = <<~EOF
     </tr>
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 <div align="center">  
   
   ### Tools
