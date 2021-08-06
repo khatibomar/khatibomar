@@ -24,13 +24,8 @@ quote = JSON.parse(quote_response.body)
 # Generate your own layout and paste posts in it
 # Don't forget to change text and name =)
 markdown = <<~EOF
-<div align="center">
-<img src="https://media1.tenor.com/images/7d13e039fd08c122edd77f1ebfb746f6/tenor.gif?itemid=17699347" align="center" />
-</div>  
 
 ### <div align="center">I ✍️ my first  🖥️ program when I was 12 years old.</div>  
-  
-📗 All public repositories are my own , I don't copy others work . Also I don't push code from tutorials I watch or read unless I edit them to fit my needs.
   
 <br/>  
 
