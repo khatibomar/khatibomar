@@ -1,5 +1,4 @@
 
-### <div align="center">I ✍️ my first  🖥️ program when I was 12 years old.</div>  
   
 <br/>  
 
