@@ -21,6 +21,8 @@
 ### Backend  
   
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="50" /> 
+<img style="margin: 10px" src="https://github.com/khatibomar/khatibomar/assets/35725554/66353c2d-b221-4077-aaf5-853785ac77a0" alt="Go" height="50" /> 
+
 </div>  
 
  
@@ -44,6 +46,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" height="50" />  
 <img style="margin: 10px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/goland_icon.svg" alt="Goland" height="50" />  
 <img style="margin: 10px" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" height="50" />
 
 </div></td>
     </tr>
