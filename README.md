@@ -1,91 +1,34 @@
-
-  
-<br/>  
-
-## My Skill Set  
-<table><tr>
-
-
-<td valign="top" width="25%">
-<div align="center">  
-  
-  ### Frontend  
-  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="50" />  
-</div></td>
-
-<td valign="top" width="25%">
-<div align="center"> 
-  
-### Backend  
-  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="50" /> 
-<img style="margin: 10px" src="https://github.com/khatibomar/khatibomar/assets/35725554/66353c2d-b221-4077-aaf5-853785ac77a0" alt="dotnet" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" height="50" />
-
-</div>  
-
- 
-<td valign="top" width="25%">
-<div align="center">  
-  
-### DevOps 
-
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="50" />  
-
-</div></td>
-
-<td valign="top" width="25%">
-<div align="center">  
-  
-  ### Tools
-  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" height="50" />  
-<img style="margin: 10px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/goland_icon.svg" alt="Goland" height="50" />  
-<img style="margin: 10px" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" height="50" />
-
-</div></td>
-    </tr>
-  </table>  
-
-<br/>  
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/OmarElKhatibCS" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/elkhatibomar" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-</div>  
-<br/>  
-<br/>  
-<br/>  
-<br />
-----
-My last publication:
-
-
-[Go and copies](https://dev.to/elkhatibomar/go-and-copies-50dg)
-
-
----
-Quote of today :
-    
-
+  <!-- Header Typing Effect -->
+  <img src="https://github.com/user-attachments/assets/7ae00d94-d147-469a-abea-791b47cb9776" width="30%" align="right" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=554B61&center=true&vCenter=true&multiline=true&pause=0&repeat=false&width=435&height=60&lines=Hello+world!;welcome+to+my+github+%F0%9F%90%89" alt="Typing SVG" /></a> 
+  <br><br>
   
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.  - E. W. Dijkstra
+  <!-- About Section -->
+  <pre>
+      💼 Back-end dev • Platform Engineer • Remote Worker
+      📖 Distributed systems • Performance
+      🔧 Meta-programming fan • Compiled languages > interpreted
+      ⚡ Performance matters • Always optimizing
+      🎮 Anime • Code • Games • Art
+      💬 Discord: dargon.maido
+      📧 Email: elkhatibomar@outlook.com
+  </pre>
   
----
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/OmarElKhatibCS/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/OmarElKhatibCS/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+  <!-- Quote Section -->
+  <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/bb9072aa-5b17-4203-ab0f-3012394d7818" height="130" style="border-radius: 50%; margin-bottom: 10px;" />
+    <blockquote style="font-style: italic; font-size: 18px; color: #555;">
+      "Data dominates. If you’ve chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming."
+      <br>
+      <strong>~ Rob Pike</strong>
+    </blockquote>
+  </div>
+  
+  <br>
+
+  [![Website](https://img.shields.io/badge/Website-omarelkhatib.com-88c0d0?style=plastic&logo=firefox&logoColor=white)](https://omarelkhatib.com)
+[![GitHub](https://img.shields.io/badge/GitHub-khatibomar-a3be8c?style=plastic&logo=github&logoColor=white)](https://github.com/khatibomar)
+
+
+</div>
