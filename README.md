@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Typing Effect -->
-  <img src="https://github.com/user-attachments/assets/7ae00d94-d147-469a-abea-791b47cb9776" width="30%" align="right" />
+  <img src="https://github.com/user-attachments/assets/7ae00d94-d147-469a-abea-791b47cb9776" width="32%" align="right" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=554B61&center=true&vCenter=true&multiline=true&pause=0&repeat=false&width=435&height=60&lines=Hello+world!;welcome+to+my+github+%F0%9F%90%89" alt="Typing SVG" /></a> 
   <br><br>
   
