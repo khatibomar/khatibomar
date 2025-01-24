@@ -1,8 +1,7 @@
 <div align="center">
   <!-- Header Typing Effect -->
   <img src="https://github.com/user-attachments/assets/7ae00d94-d147-469a-abea-791b47cb9776" width="32%" align="right" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=554B61&center=true&vCenter=true&multiline=true&pause=0&repeat=false&width=435&height=60&lines=Hello+world!;welcome+to+my+github+%F0%9F%90%89" alt="Typing SVG" /></a> 
-  <br><br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=554B61&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=60&lines=%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%81;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E3%82%AE%E3%83%83%E3%83%88%E3%83%8F%E3%83%96%E3%81%B8+%F0%9F%90%89" alt="Typing SVG" /></a>   <br><br>
   
   <!-- About Section -->
   <pre>
