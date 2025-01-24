@@ -24,11 +24,7 @@
       <strong>~ Rob Pike</strong>
     </blockquote>
   </div>
-  
-  <br>
 
   [![Website](https://img.shields.io/badge/Website-omarelkhatib.com-88c0d0?style=plastic&logo=firefox&logoColor=white)](https://omarelkhatib.com)
-[![GitHub](https://img.shields.io/badge/GitHub-khatibomar-a3be8c?style=plastic&logo=github&logoColor=white)](https://github.com/khatibomar)
-
-
+  [![GitHub](https://img.shields.io/badge/GitHub-khatibomar-a3be8c?style=plastic&logo=github&logoColor=white)](https://github.com/khatibomar)
 </div>
