@@ -14,7 +14,7 @@
   
   <!-- Quote Section -->
   <div style="max-width: 800px; margin: 0 auto; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/bb9072aa-5b17-4203-ab0f-3012394d7818" height="130" width="130" style="border-radius: 50%; margin-bottom: 10px;" />
+    <img src="https://github.com/user-attachments/assets/bb9072aa-5b17-4203-ab0f-3012394d7818" height="130" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
     <blockquote style="font-style: italic; font-size: 18px; color: #555;">
       "Data dominates. If you’ve chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming."
       <br>
