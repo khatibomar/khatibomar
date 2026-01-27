@@ -8,9 +8,7 @@
 📖 Distributed systems • Performance
       🔧 Meta-programming fan • Compiled languages > interpreted
       ⚡ Performance matters • Always optimizing
-      🎮 Anime • Code • Games • Art
-      💬 Discord: dargon.maido
-      📧 Email: ayn.khatib@gmail.com</pre>
+      🎮 Anime • Code • Games • Art</pre>
   
   <!-- Quote Section -->
   <div style="max-width: 800px; margin: 0 auto; text-align: center;">
